@@ -1,0 +1,7 @@
+{
+  "go.goroot": "/Users/garrett/.gvm/gos/go1.17.6",
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.formatOnSave": true 
+  }
+}
